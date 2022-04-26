@@ -1,0 +1,44 @@
+.header {
+    padding: 2%;
+    background-color: rgb(245, 145, 109);
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+    color: white;
+ }
+ 
+ .footer {
+   padding: 2%;
+   background-color: rgb(245, 145, 109);
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+    color: white;
+ }
+ 
+ .dashboard {
+   padding: 3% 1%;
+ }
+
+h1 {
+  text-align: center;
+}
+h4 {
+  color: white;
+}
+
+.display-board {
+  width: 100%;
+  background-color: rgb(245, 145, 109);
+  padding: 5%;
+}
+
+.number {
+  color: white;
+  font-size: 75px;
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-top: 40px;
+}
